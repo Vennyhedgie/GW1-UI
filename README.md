@@ -12,6 +12,10 @@ A Guild Wars 1 stylized UI for Guild Wars 2. It's set up in a homogenized layout
 
 # Examples
 
+A video to see the pack in action:
+
+https://youtu.be/qS4F2lmV3_A
+
 Examples of the default layout:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23e36c13-9f3e-478e-a0d8-cecd64c4f4b0" />
