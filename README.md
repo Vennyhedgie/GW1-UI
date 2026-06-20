@@ -1,11 +1,5 @@
 This is a Reffect content pack. In order to use this you'll have to download Reffect (and therefore, Nexus) first. Please follow their setup instructions here: https://github.com/Zerthox/gw2-reffect
 
-# Note
-
-The setting to **reuse game icons is required** for this pack to function:
-
-<img width="364" height="145" alt="image" src="https://github.com/user-attachments/assets/babef52d-c5ab-40d3-9881-925959b32d0e" />
-
 # Description
 
 A Guild Wars 1 stylized UI for Guild Wars 2. It's set up in a homogenized layout for all classes, but you may duplicate it and customize it to your liking.
@@ -93,6 +87,27 @@ A settings file is provided to style buffs to look as close to ingame as possibl
 
 <img width="123" height="55" alt="image" src="https://github.com/user-attachments/assets/9d546406-b656-45fd-9723-4d0209d8a5ee" />
 
+# FAQ
+
+### **- Game icons look like this**
+
+<img width="872" height="195" alt="image" src="https://github.com/user-attachments/assets/45fdffbf-3fc4-442c-b2a3-19c2ea2efd67" />
+
+The setting to **reuse game icons is required** for this pack to function:
+
+<img width="364" height="145" alt="image" src="https://github.com/user-attachments/assets/babef52d-c5ab-40d3-9881-925959b32d0e" />
+
+### **- The default UI is showing up behind the pack**
+
+You can change your HUD settings as such:
+
+<img width="666" height="440" alt="image" src="https://github.com/user-attachments/assets/b8c4bda0-7cc2-49f4-ba9c-d7848ac11c02" />
+
+The important ones to note:
+- Skill bar (never show)
+- Mount skill bar (never show)
+- Temporarily show UI for notifications (Disabled to prevent the UI popping in when gliding)
+- Use "Show ally names" keybind to display the UI so you can change your skills. You will probably need to set up a keybind in reffect to hide overlays. Alternatively, you can use the Build tab of the hero panel.
 
 # Known Issues
 
