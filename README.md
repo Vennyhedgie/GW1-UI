@@ -60,6 +60,17 @@ Navigate the hierarchy to find the element or group you wanna move and place it 
 Weapon and utility hotbars are shared between all classes. Same for health and endurance bars. 
 Each class has their own profession mechanic bars.
 
+# Keybinds
+
+A corner to display keybinds has been added as well. However, Reffect cannot tell which key is bound to each slot yet, so if you want to have accurate text, you will have to edit the corresponding key in the text element. The default keybinds have been set for these elements:
+
+<img width="752" height="204" alt="image" src="https://github.com/user-attachments/assets/b379eaa9-f990-42f2-b100-968f4e27c5f0" />
+
+You can find the editable text by navigating the hierarchy into the element you want to change, and you'll find it under Keybind > Key text. For example, to change the Weapon skill 2's keybind:
+
+<img width="966" height="716" alt="image" src="https://github.com/user-attachments/assets/17a6486b-b95f-4613-aa7d-3f6c36211290" />
+
+
 # Buffs
 
 A few options have been added for buffs. By default, boons and conditions have been replaced with (mostly aesthetically) matching skill icons from the first game as well. The full conversion table is:
@@ -79,6 +90,8 @@ Feel free to choose whichever layout you prefer.
 **Note:** the list with the combat buffs will appear quite longer as ALL possible buffs will appear at the same time, despite no class being able to have them all at once.
 
 These combat buffs include:
+- Revenant's Tranquil
+- Conduit's Cosmic Wisdowm forms
 - Untamed's Unleashed Power
 - Paragon's active chant
 - Troubadour's active instruments
