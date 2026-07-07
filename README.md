@@ -12,21 +12,16 @@ https://youtu.be/qS4F2lmV3_A
 
 Examples of the default layout:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23e36c13-9f3e-478e-a0d8-cecd64c4f4b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55feb6e6-764b-495a-8d41-bd9eb2647768" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abe5a2e8-e7db-4803-aeea-a078f3f7cc63" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b30ba935-987f-4cd2-8309-39bfe8fa51d6" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f728797-6edf-44e4-bf75-1130311780d7" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a1d441d-8853-43a0-a18d-9961da5c48de" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281abe9b-a474-4da6-abf3-1be1107045a4" />
-
-Catalyst (with Energy on the left and Elemental Empowerment on the right)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/139cc214-6a31-484d-8dd5-27be44893d80" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f57e666a-75d8-493d-8eb0-a5134d2c20b7" />
 
 Evoker (with Specialized Elements):
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ada0366f-8215-412d-bd4a-3eb96aebf876" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1569f748-f359-464f-9109-96febe08c697" />
+
 
 
 # How to use
@@ -64,7 +59,7 @@ Each class has their own profession mechanic bars.
 
 A corner to display keybinds has been added as well. However, Reffect cannot tell which key is bound to each slot yet, so if you want to have accurate text, you will have to edit the corresponding key in the text element. The default keybinds have been set for these elements:
 
-<img width="752" height="204" alt="image" src="https://github.com/user-attachments/assets/b379eaa9-f990-42f2-b100-968f4e27c5f0" />
+<img width="721" height="195" alt="image" src="https://github.com/user-attachments/assets/57bb44f2-8738-463e-be60-efe6ae340723" />
 
 You can find the editable text by navigating the hierarchy into the element you want to change, and you'll find it under Keybind > Key text. For example, to change the Weapon skill 2's keybind:
 
@@ -79,26 +74,12 @@ A few options have been added for buffs. By default, boons and conditions have b
 
 However, an option to have GW2 regular buffs is also available.
 
-<img width="301" height="289" alt="image" src="https://github.com/user-attachments/assets/0edecd64-59ef-4fcb-b7e0-6b73bdebd5ca" />
+<img width="268" height="409" alt="image" src="https://github.com/user-attachments/assets/919799a7-ddc6-4cd5-9c63-62deb7744131" />
 
-Additionally, a couple of select class buffs that need to be visible but aren't as clear to translate to a bar setup have been added to the boons list. If you want these in a separate element as well, you can do so. By default, they are combined:
-
-<img width="255" height="132" alt="image" src="https://github.com/user-attachments/assets/dc90140a-dc23-45fc-9ac7-2053d8da0e85" />
-
-Feel free to choose whichever layout you prefer.
+Additionally, a handpicked selection of combat buffs that need to be visible but aren't as clear to translate to a bar setup have been added to the buffs list.
 
 **Note:** the list with the combat buffs will appear quite longer as ALL possible buffs will appear at the same time, despite no class being able to have them all at once.
 
-These combat buffs include:
-- Revenant's Tranquil
-- Conduit's Cosmic Wisdowm forms
-- Untamed's Unleashed Power
-- Paragon's active chant
-- Troubadour's active instruments
-
-A settings file is provided to style buffs to look as close to ingame as possible, with pretty stack markers and white duration bars instead of the default neon green. This is optional but highly recommended. It's only separate for users who may have customized their settings for other packs already.
-
-<img width="123" height="55" alt="image" src="https://github.com/user-attachments/assets/9d546406-b656-45fd-9723-4d0209d8a5ee" />
 
 # FAQ
 
@@ -124,8 +105,7 @@ The important ones to note:
 
 # Known Issues
 
-- Herald energy pips are not available. Reffect needs to be updated for this to be fixed.
-- Merged Soulbeast and Unleashed Pet Untamed have their pet portraits unavailable so they have been replaced with something else or removed.
+- Merged Soulbeast and Unleashed Pet Untamed have their pet portraits unavailable so they have been replaced with something else or removed. Soulbeast skills will be moved to the profession bar instead of the pet panel, as most of the gameplay is intended to be done while merged.
 
 Unleashed Pet
 
@@ -136,3 +116,9 @@ Soulbeast
 <img width="736" height="266" alt="image" src="https://github.com/user-attachments/assets/f0a1fb56-5906-45a3-bfcc-cd6d0d442c1e" />
 
 <img width="715" height="189" alt="image" src="https://github.com/user-attachments/assets/a822fcb2-6d64-493e-84da-d49431458c90" />
+
+# Settings
+
+A settings file is provided to style buffs to look as close to ingame as possible, with pretty stack markers and white duration bars instead of the default neon green. This is optional but highly recommended. It's only separate for users who may have customized their settings for other packs already.
+
+<img width="123" height="55" alt="image" src="https://github.com/user-attachments/assets/9d546406-b656-45fd-9723-4d0209d8a5ee" />
