@@ -8,13 +8,13 @@ A Guild Wars 1 stylized UI for Guild Wars 2. It's set up in a homogenized layout
 
 A video to see the pack in action:
 
-[![YouTube](https://github.com/user-attachments/assets/8759fb4a-6f4b-4f10-a379-30fa2e5e6938)](https://www.youtube.com/watch?v=qS4F2lmV3_A)
+[![YouTube](https://github.com/user-attachments/assets/c1e3cb29-0ba4-4e11-9ab3-5504f56d0816)](https://www.youtube.com/watch?v=qS4F2lmV3_A)
 
 Examples of the default layout:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55feb6e6-764b-495a-8d41-bd9eb2647768" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b30ba935-987f-4cd2-8309-39bfe8fa51d6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b79109c-73a8-480a-b060-99ee8710aeaa" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f57e666a-75d8-493d-8eb0-a5134d2c20b7" />
 
