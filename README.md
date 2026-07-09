@@ -8,7 +8,7 @@ A Guild Wars 1 stylized UI for Guild Wars 2. It's set up in a homogenized layout
 
 A video to see the pack in action:
 
-[![YouTube](https://github.com/user-attachments/assets/c1e3cb29-0ba4-4e11-9ab3-5504f56d0816)](https://www.youtube.com/watch?v=qS4F2lmV3_A)
+[![YouTube](https://github.com/user-attachments/assets/c1e3cb29-0ba4-4e11-9ab3-5504f56d0816)](https://youtu.be/z4WilP0FgCU)
 
 Examples of the default layout:
 
