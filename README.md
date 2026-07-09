@@ -24,6 +24,13 @@ Evoker (with Specialized Elements):
 
 # How to use
 
+## Video Tutorial
+
+[![YouTube](https://github.com/user-attachments/assets/602fff32-1258-443d-9d92-d34967d49346)](https://youtu.be/RGYJtT-vczo)
+
+## Setup
+These steps are covered in the video tutorial, but in case text format is prefereable:
+
 ## Reffect
 
 **This is a content pack for the Reffect addon which can be found here:**
