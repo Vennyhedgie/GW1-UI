@@ -1,5 +1,3 @@
-This is a Reffect content pack. In order to use this you'll have to download Reffect (and therefore, Nexus) first. Please follow their setup instructions here: https://github.com/Zerthox/gw2-reffect
-
 # Description
 
 A Guild Wars 1 stylized UI for Guild Wars 2. It's set up in a homogenized layout for all classes, but you may duplicate it and customize it to your liking.
@@ -26,7 +24,17 @@ Evoker (with Specialized Elements):
 
 # How to use
 
-Download "Venny GW1.zip" into your reffect root folder and extract. It should add the necessary files to the icons and packs subfolders. An additional Settings file is provided for style that's also recommended to download. More details below.
+## Reffect
+
+**This is a content pack for the Reffect addon which can be found here:**
+
+https://github.com/Zerthox/gw2-reffect
+
+**If you don't have it, you'll need to install that first. Please follow the installation instructions on their page.**
+
+Last tested with Reffect version 0.11.2.
+
+Download "Venny GW1.zip" into your Reffect root folder and extract. It should add the necessary files to the icons and packs subfolders. An additional Settings file is provided for style that's also recommended to download. More details below.
 
 <img width="652" height="141" alt="image" src="https://github.com/user-attachments/assets/1d2c3445-ed6e-4644-8dae-dd2f987661a7" />
 
