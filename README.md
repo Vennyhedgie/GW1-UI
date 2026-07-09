@@ -80,6 +80,14 @@ Additionally, a handpicked selection of combat buffs that need to be visible but
 
 **Note:** the list with the combat buffs will appear quite longer as ALL possible buffs will appear at the same time, despite no class being able to have them all at once.
 
+# Endurance
+
+<img width="734" height="182" alt="image" src="https://github.com/user-attachments/assets/d7b2cfce-c6d5-4606-9920-89c355b8cf34" />
+
+If you prefer the blue endurance bar like in GW1 instead of the yellow from GW2, you can switch it here:
+
+<img width="268" height="274" alt="image" src="https://github.com/user-attachments/assets/c21cdfa8-ced2-4de7-b659-395f4e763711" />
+
 
 # FAQ
 
